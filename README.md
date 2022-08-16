@@ -1,2 +1,2 @@
 # LGMTASK2
-Internship
+Internship Project
