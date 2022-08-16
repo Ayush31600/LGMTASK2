@@ -1,0 +1,52 @@
+body{
+
+    background: linear-gradient(110deg, #010b18 60%, rgb(1, 8, 19) 60%);
+}
+.container{
+    margin-left: 20%;
+    margin-right: auto;
+    
+    
+}
+.box{
+    width: 40%;
+    height: 40vh;
+    margin-left: 20%;
+}
+input{
+    width:100%;
+    font-size: 10vh;
+    height: 19vh;
+    font-weight: bold;
+    margin-left:-6px;
+    font-family:'Times New Roman', 'Arial Narrow', Arial, sans-serif;
+    border:black;
+    background-color: rgba(26, 226, 240, 0.959);
+}
+
+
+button{
+    width:100%;
+    margin: -2px;
+    font-size:8vh;
+    height:15vh;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:black;
+    background-color: rgb(114, 250, 159);
+    transition: 0.1s;
+}
+#cut{
+    font-size: 7vh;
+    font-weight: bolder;
+
+}
+button:hover{
+    background-color: #4caf89;
+    display: inline-block;
+    transition: 0.1s;
+    cursor: pointer;
+}
+table{
+    width:100%;
+    height: 70vh;
+}
